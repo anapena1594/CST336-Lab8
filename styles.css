@@ -1,0 +1,40 @@
+#no{
+  color: red;  
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline !important;
+  font-size: 10px !important;
+}
+
+#yes{
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline !important;
+    font-size: 10px !important;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1{
+   font-weight: bold !important; 
+   text-align: center !important;
+   color: #82CBD0 !important;
+   font-size: 250% !important;
+   text-decoration: underline !important;
+   width: 300px !important;
+   border: 1px solid white !important;
+   padding: 25px !important;
+   margin: 25px !important;
+}
+
+form{
+    font-size: 120%;
+}
+
+
